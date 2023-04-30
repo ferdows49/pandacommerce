@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="205.351" height="54" viewBox="0 0 205.351 54">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff589b"/>
+      <stop offset="1" stop-color="#ff136f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9c35"/>
+      <stop offset="1" stop-color="#ffd019"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_104" data-name="Group 104" transform="translate(-227.649 -79)">
+    <g id="Group_103" data-name="Group 103" transform="translate(39 7)">
+      <path id="Polygon_2" data-name="Polygon 2" d="M14.791,9.117a6,6,0,0,1,10.419,0L34.87,26.023A6,6,0,0,1,29.661,35H10.339A6,6,0,0,1,5.13,26.023Z" transform="translate(207.649 92) rotate(-30)" fill="url(#linear-gradient)"/>
+      <path id="Polygon_3" data-name="Polygon 3" d="M14.791,9.117a6,6,0,0,1,10.419,0L34.87,26.023A6,6,0,0,1,29.661,35H10.339A6,6,0,0,1,5.13,26.023Z" transform="translate(188.649 92) rotate(-30)" fill="url(#linear-gradient-2)"/>
+      <text id="Panda" transform="translate(260 115)" fill="#1f1f1f" font-size="41" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PANDA</tspan></text>
+    </g>
+  </g>
+</svg>
